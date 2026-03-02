@@ -1,6 +1,6 @@
 ---
-layout: default
----
+layout: custom
+title: Abirami Vishwanathan
 
 <link rel="stylesheet" href="style.css">
 
